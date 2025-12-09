@@ -1,0 +1,5 @@
+{
+  "name": "Chimera C2 Platform",
+  "description": "A platform-aware Command & Control interface for Self-Provisioning Harvesters with Tor integration and structured data management.",
+  "requestFramePermissions": []
+}
